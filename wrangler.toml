@@ -1,0 +1,8 @@
+name = "internship"
+type = "javascript"
+account_id = "cf9f293e0d6b89761bd0c0e3e03438cf"
+workers_dev = true
+
+[env.production]
+route = "worker.tientavu.com/*"
+zone_id = "2421016bc505875e9960b331f23ea3e0"
